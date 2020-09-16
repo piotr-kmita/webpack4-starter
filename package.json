@@ -1,15 +1,14 @@
 {
   "name": "webpack-starter",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "author": "Piotr Kmita",
+  "license": "MIT",
+  "description": "Webpack starter with Babel and Sass",
+  "private": "true",
   "scripts": {
     "start": "webpack-dev-server --open --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/preset-env": "^7.11.5",
