@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "author": "Piotr Kmita",
   "license": "MIT",
-  "description": "Webpack starter with Babel and Sass",
+  "description": "Webpack 4 starter with Babel and Sass",
   "private": "true",
   "scripts": {
     "start": "webpack-dev-server --open --config webpack.dev.js",
