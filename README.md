@@ -1,6 +1,6 @@
-# Webpack starter
+# Webpack 4 starter
 
-Basic webpack starter for frontend projects.
+Basic webpack 4 starter for frontend projects.
 
 ## Installation
 npm install
